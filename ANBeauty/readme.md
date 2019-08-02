@@ -1,9 +1,8 @@
 /* ------------------------------------------------------
-Template Name: Akame - Hair Salon HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
+Template Name: Студия красоты и стиля A&N Beauty
+Template Author: Yaandrey
 Version: 1.0.0
-Last Update: Jan 19, 2019
+Last Update: Август 2019
 ----------------------------------------------------- */
 
 /* --------------------------------
@@ -11,7 +10,7 @@ To start 'Gulp' => npm run start
 -------------------------------- */
 
 File Structure:
-akame/
+AnBeauty/
 └── src/
     ├── css/
     │   ├── default-assets/
